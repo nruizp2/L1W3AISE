@@ -1,0 +1,15 @@
+Example 1:
+Animal: Elephant
+Description: Elephants are the largest land animals on Earth, known for their intelligence, strong social bonds, and long trunks used for various purposes such as grabbing objects, drinking water, and social interactions.
+
+Example 2:
+Animal: Penguin
+Description: Penguins are flightless birds that live primarily in the Southern Hemisphere. They are known for their distinctive black and white plumage, and their ability to swim exceptionally well using their flippers.
+
+Example 3:
+Animal: Koala
+Description: Koalas are tree-dwelling marsupials native to Australia. They have thick, gray fur, large ears, and a spoon-shaped nose. Koalas primarily feed on eucalyptus leaves and are known for their slow, leisurely lifestyle.
+
+Task: Write a brief description of the given animal.
+Animal: Giraffe
+Description:

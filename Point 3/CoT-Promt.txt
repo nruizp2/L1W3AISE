@@ -1,0 +1,12 @@
+A farmer has 3 chickens, 2 pigs, and 1 cow. 
+Each chicken has 2 legs, each pig has 4 legs, 
+and each cow has 4 legs. How many legs are there in total?
+
+Solve this problem step by step:
+
+1. First, determine the number of legs for each type of animal.
+2. Each chicken has 2 legs. How many legs do 3 chickens have?
+3. Each pig has 4 legs. How many legs do 2 pigs have?
+4. Each cow has 4 legs. How many legs does 1 cow have?
+5. Now, add up the legs from all the chickens, pigs, and the cow.
+What is the total number of legs?

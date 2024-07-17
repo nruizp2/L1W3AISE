@@ -1,0 +1,8 @@
+
+A farmer has 100 animals, consisting of chickens and cows. 
+There are 300 legs in total. 
+How many chickens and how many cows does the farmer have? 
+Break down the problem into smaller subproblems. 
+Explore different solution paths. 
+Evaluate each path and choose the most promising one. 
+Clearly indicate the reasoning behind each step.

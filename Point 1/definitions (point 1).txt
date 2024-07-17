@@ -1,0 +1,49 @@
+Zero-shot Prompting: Asking the model to perform a task without 
+providing any examples. The model relies on its pre-existing knowledge 
+to generate a response.
+
+Few-shot Prompting: Providing a few examples of the task in the prompt
+to guide the model on how to perform a specific task.
+
+Chain-of-Thought (CoT) Prompting: Encouraging the model to explain 
+its reasoning step-by-step, which can improve the quality and coherence 
+of complex responses.
+
+Self-Consistency: Generating multiple outputs for a given prompt 
+and selecting the most consistent or frequent response, enhancing 
+reliability.
+
+Generate Knowledge Prompting: Prompting the model to produce background 
+information or context before answering a question, improving the response 
+accuracy.
+
+Prompt Chaining: Connecting multiple prompts in sequence, where each 
+prompt builds on the response of the previous one, creating a coherent 
+flow of information.
+
+Tree of Thoughts: Structuring the reasoning process as a branching tree, 
+exploring multiple possible paths or thoughts before converging on a final 
+answer.
+
+Retrieval Augmented Generation: Combining the model's generative 
+capabilities with retrieved documents or data, providing more informed 
+and accurate responses.
+
+Directional Stimulus Prompting: Steering the model’s responses in a 
+desired direction by using specific keywords or phrases that influence 
+the content and style.
+
+ReAct Prompting: Integrating reasoning and action, where the model 
+reasons through a problem and then takes an action or generates a 
+response based on that reasoning.
+
+Multimodal CoT Prompting: 
+Applying chain-of-thought prompting across multiple modalities 
+(e.g., text, images) to improve the model's performance on tasks 
+that require understanding and integrating different types of information.
+
+
+
+
+
+

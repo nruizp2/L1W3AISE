@@ -1,0 +1,16 @@
+For the code assitant I am using Codeium, this is because I had 
+billing problems with GitHub Copilot so I decided to use Codeium as 
+it is free and easier to install.
+
+For the IDE I am using VS Code because it is the IDE I have the most experience
+with so I will not have problems with extensions usage.
+
+
+How the assistant helped me:
+It was very helpful when writing "repetitive" pieces of code,
+for example, for coding the prompts, I wrote the code for the first prompt
+(reading the file, joing the sentences, calling the function, etc...)
+and Codeium completed the rest of the prompts, even calling the correct files names.
+
+Also while coding the API, it was helpful as I did not know the name for the
+methods, and Codeium completed that with the things I had written.

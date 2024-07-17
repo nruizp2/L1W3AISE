@@ -1,0 +1,213 @@
+Few Shot Prompt:
+
+Prompt:
+Example 1:
+ Animal: Elephant
+ Description: Elephants are the largest land animals on Earth, known for their intelligence, strong social bonds, and long trunks used for various purposes such as grabbing objects, drinking water, and social interactions.
+
+ Example 2:
+ Animal: Penguin
+ Description: Penguins are flightless birds that live primarily in the Southern Hemisphere. They are known for their distinctive black and white plumage, and their ability to swim exceptionally well using their flippers.
+
+ Example 3:
+ Animal: Koala
+ Description: Koalas are tree-dwelling marsupials native to Australia. They have thick, gray fur, large ears, and a spoon-shaped nose. Koalas primarily feed on eucalyptus leaves and are known for their slow, leisurely lifestyle.
+
+ Task: Write a brief description of the given animal.
+ Animal: Giraffe
+ Description:
+
+Response:
+Giraffes are the tallest mammals on Earth, with long necks, legs, and a distinctive coat of patches. They are native to Africa and are known for their graceful gait and their ability to reach high into trees to feed on leaves. Giraffes are social animals that live in herds and communicate through a variety of vocalizations and body language.
+
+
+CoT Prompt:
+
+Prompt:
+A farmer has 3 chickens, 2 pigs, and 1 cow. 
+ Each chicken has 2 legs, each pig has 4 legs, 
+ and each cow has 4 legs. How many legs are there in total?
+ 
+ Solve this problem step by step:
+ 
+ 1. First, determine the number of legs for each type of animal.
+ 2. Each chicken has 2 legs. How many legs do 3 chickens have?
+ 3. Each pig has 4 legs. How many legs do 2 pigs have?
+ 4. Each cow has 4 legs. How many legs does 1 cow have?
+ 5. Now, add up the legs from all the chickens, pigs, and the cow.
+ What is the total number of legs?
+
+Response:
+Here's the step-by-step solution:
+
+1. **Legs per animal:**
+   - Chickens: 2 legs each
+   - Pigs: 4 legs each
+   - Cows: 4 legs each
+
+2. **Chicken legs:** 3 chickens * 2 legs/chicken = 6 legs
+
+3. **Pig legs:** 2 pigs * 4 legs/pig = 8 legs
+
+4. **Cow legs:** 1 cow * 4 legs/cow = 4 legs
+
+5. **Total legs:** 6 legs (chickens) + 8 legs (pigs) + 4 legs (cow) = **18 legs**    
+
+**Therefore, there are a total of 18 legs on the farm.**
+
+Promt Chain:
+
+Prompt:
+"Describe a peaceful village located in the mountains. Focus on the natural environment and the daily activities of the villagers."
+
+
+Response:
+Nestled amidst the emerald embrace of the towering mountains, the village of Anahita was a tapestry of serenity. The air, crisp and clean, carried the scent of pine needles and wildflowers, while the sun bathed the valley in a warm, golden glow. The village, a cluster of quaint cottages with slate roofs and whitewashed walls, nestled snugly along the winding mountain path.  
+
+The villagers, weathered yet vibrant, lived in harmony with nature. Each day began with the first rays of dawn, as farmers tended to their fields, their faces etched with the wisdom of generations. Lush green terraces, sculpted into the mountainside, yielded bountiful harvests of potatoes, barley, and beans, their colors a kaleidoscope of green, yellow, and brown. The men, their hands calloused from years of toil, worked with the earth, while the women, their fingers nimble and deft, wove vibrant fabrics on looms set up on their porches.
+
+Children, with faces as bright as the wildflowers that dotted the meadows, chased butterflies through the fields, their laughter echoing through the valley. They would gather around the village well, sharing stories and dreams as they drew water in clay pots. In the evenings, the village would come alive with the sounds of laughter and music. Elders, their eyes twinkling with stories of yore, would gather around crackling bonfires, sharing tales of bravery and wisdom, the warmth of the fire illuminating their faces.
+
+Anahita was a place where time moved at its own gentle pace. The villagers, content with their simple lives, lived in harmony with nature and with each other. Their days were filled with the rhythm of the seasons, the work of their hands, and the love of their community. The village, a testament to the enduring beauty of simplicity, was a sanctuary of peace and contentment, hidden away in the heart of the mountains.      
+
+Prompt:
+"Now, imagine a sudden event that disrupts the peace in the village. Describe what happens and how the villagers react."
+
+
+Response:
+The sun was setting, painting the sky in hues of orange and purple, as the villagers gathered for their nightly storytelling session. Laughter mingled with the clinking of pottery mugs filled with warm, spiced tea.  A sense of comfortable familiarity permeated the air, a quiet contentment that came with knowing your place in a world that, at least for this small village, felt secure.
+
+Then, it happened. A guttural, earth-shaking roar echoed across the valley, followed by a tremor that rattled the very foundations of their homes. The laughter died in mid-air, replaced by a collective gasp.  Children clutched at their mothers, their eyes wide with terror.
+
+Dust billowed from the mountainside, cascading down like a brown avalanche, obscuring the familiar silhouette of the ancient oak tree at the village entrance.  A thick silence descended, punctuated only by the panicked bleating of sheep and the frantic cries of birds.
+
+The villagers, initially stunned into inaction, began to scramble. Old men, their faces etched with worry, consulted the ancient weather charts, their brows furrowed in confusion. The village elder, his white beard trembling, called for a meeting, his voice echoing with urgency.
+
+Fear and uncertainty gripped the hearts of the villagers. Some huddled together, praying for divine intervention. Others, driven by primal instinct, started packing what little belongings they could carry. The air crackled with a mixture of anxiety and defiance.
+
+The sudden disruption had shattered the idyllic peace, replacing it with a raw sense of vulnerability.  Yet, amidst the fear, a glimmer of hope remained. The villagers, their community forged in shared hardships, knew that they had to band together to face the unknown. This sudden event, however terrifying, had also served as a stark reminder of their interdependence, their shared destiny. They would weather this storm, as they had weathered many before, by relying on each other, their courage fueled by the enduring bond of their village.
+
+Prompt:
+"Introduce a character who plays a key role in resolving the disruption. Describe their background and motivations."
+
+
+Response:
+Please provide me with more context! I need to know:
+
+* **What is the disruption?**  What is the problem that needs to be solved?
+* **What is the setting?** Is this a fantasy world, a futuristic society, or something else?
+* **What kind of character are you looking for?** Are they a wise elder, a cunning detective, a powerful warrior, or something else entirely?
+
+Once you give me this information, I can create a compelling character with a compelling backstory and motivations who can play a crucial role in resolving the disruption.
+
+Prompt:
+"Detail the steps this character takes to address the problem. Highlight any challenges they face and how they overcome them."
+
+
+Response:
+Please provide me with the following information so I can help you:
+
+* **Who is the character?**  What is their name, age, occupation, personality?       
+* **What is the problem?** What is the specific situation the character is facing?   
+* **What is the character's goal?** What are they trying to achieve in addressing the problem?
+
+Once you give me these details, I can write a detailed response outlining the steps the character takes, the challenges they face, and how they overcome them.
+
+Prompt:
+"Conclude with the resolution of the event and how the village returns to peace. Reflect on any changes in the village or among the villagers as a result of this experience."
+
+Response:
+Please provide me with the context of the event you'd like me to conclude. I need to know what happened in the village to understand how it was resolved and what changes occurred.
+
+For example, tell me:
+
+* **What was the event?** Was it a natural disaster, a conflict, a festival, a mysterious occurrence?
+* **What were the challenges faced by the villagers?**
+* **How did they overcome these challenges?**
+
+Once I have this information, I can help you write a powerful conclusion that reflect"Conclude with the resolution of the event and how the village returns to peace. Reflect on any changes in the village or among the villagers as a result of this experience."
+
+Response:
+Please provide me with the context of the event you'd like me to conclude. I need to know what happened in the village to understand how it was resolved and what changes occurred.
+
+For example, tell me:
+
+* **What was the event?** Was it a natural disaster, a conflict, a festival, a mysterious occurrence?
+* **What were the challenges faced by the villagers?**
+* **How did they overcome these challenges?**
+
+Once I have this information, I can help you write a powerful conclusion that reflectResponse:
+Please provide me with the context of the event you'd like me to conclude. I need to know what happened in the village to understand how it was resolved and what changes occurred.
+
+For example, tell me:
+
+* **What was the event?** Was it a natural disaster, a conflict, a festival, a mysterious occurrence?
+* **What were the challenges faced by the villagers?**
+* **How did they overcome these challenges?**
+
+Once I have this information, I can help you write a powerful conclusion that reflect* **How did they overcome these challenges?**
+
+Once I have this information, I can help you write a powerful conclusion that reflectOnce I have this information, I can help you write a powerful conclusion that reflects on the event's impact on the village.
+
+
+Tree of thoughts:
+
+Prompt:
+
+ A farmer has 100 animals, consisting of chickens and cows. 
+ There are 300 legs in total. 
+ How many chickens and how many cows does the farmer have? 
+ Break down the problem into smaller subproblems. 
+ Explore different solution paths. 
+ Evaluate each path and choose the most promising one. 
+ Clearly indicate the reasoning behind each step.
+
+Response:
+## Solving the Chicken and Cow Problem
+
+**Problem:** A farmer has 100 animals, consisting of chickens and cows. There are 300 legs in total. How many chickens and how many cows does the farmer have?
+
+**Subproblems:**
+
+1. **Define variables:**
+    * Let 'c' represent the number of chickens.
+    * Let 'w' represent the number of cows.
+
+2. **Set up equations based on the given information:**
+    * **Equation 1 (Total animals):** c + w = 100
+    * **Equation 2 (Total legs):** 2c + 4w = 300 (Chickens have 2 legs, cows have 4)
+
+**Solution Paths:**
+
+**Path 1: Substitution**
+
+* **Step 1:** Solve Equation 1 for 'c': c = 100 - w
+* **Step 2:** Substitute this value of 'c' into Equation 2: 2(100 - w) + 4w = 300    
+* **Step 3:** Simplify and solve for 'w': 200 - 2w + 4w = 300  =>  2w = 100  =>  w = 50
+* **Step 4:** Substitute the value of 'w' back into Equation 1 to find 'c': c + 50 = 100  =>  c = 50
+
+**Path 2: Elimination**
+
+* **Step 1:** Multiply Equation 1 by -2: -2c - 2w = -200
+* **Step 2:** Add this modified equation to Equation 2: 2w = 100  =>  w = 50
+* **Step 3:** Substitute the value of 'w' back into Equation 1 to find 'c': c + 50 = 100  =>  c = 50
+
+**Path 3: Guess and Check**
+
+* **Step 1:** Start with an initial guess for the number of cows.
+* **Step 2:** Calculate the number of chickens based on the total number of animals. 
+* **Step 3:** Calculate the total number of legs based on the number of chickens and cows.
+* **Step 4:** Adjust the guess for the number of cows based on the difference between the calculated total legs and the actual total legs.
+* **Step 5:** Repeat steps 2-4 until the calculated total legs match the actual total legs.
+
+**Evaluation of Paths:**
+
+* **Path 1 (Substitution):**  Clear and efficient, systematically eliminates one variable to solve for the other.
+* **Path 2 (Elimination):**  Similar to substitution but focuses on eliminating a variable directly by adding equations.
+* **Path 3 (Guess and Check):**  Time-consuming and requires multiple iterations, especially if the initial guess is far off.
+
+**Conclusion:**
+
+Both Path 1 (Substitution) and Path 2 (Elimination) are the most promising solutions. They are both straightforward, systematic, and provide the correct answer quickly.  Path 3 (Guess and Check) is not recommended due to its inefficiency.
+
+**Answer:** The farmer has 50 chickens and 50 cows.
